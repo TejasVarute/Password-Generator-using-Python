@@ -1,5 +1,3 @@
-![image](https://github.com/TejasVarute/Password-Generator-using-Python/assets/65999219/7c3e659b-3529-4d3b-8c4a-ff3a1101f71f)# Password-Generator-using-Python
-
 It is Simple Python Code to generate Password in format of,
 
 password style : 
