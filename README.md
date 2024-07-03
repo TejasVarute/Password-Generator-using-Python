@@ -7,5 +7,8 @@ password style :
                   special symbols : one in this list : [!, @, #, $, %, ^, &, *, <, >, ?, /, |]
                   numbers : 3
 
-Sample OUTPUT:  
-                ![Screenshot 2024-07-01 212203](https://github.com/TejasVarute/Password-Generator-using-Python/assets/65999219/956e71b0-1352-4abb-9870-ae4e653458c4)
+Sample OUTPUT: 
+<p align="center">
+  <img width="720" height="480" src="![Screenshot 2024-07-01 212203](https://github.com/TejasVarute/Password-Generator-using-Python/assets/65999219/956e71b0-1352-4abb-9870-ae4e653458c4)">
+</p> 
+
